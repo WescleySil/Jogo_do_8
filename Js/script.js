@@ -76,8 +76,8 @@
     }
 
     function gameOver(){
-        overScreen.style.opacity = 1
-        overScreen.style.zIndex = 1
+        overScreen.style.opacity = "1"
+        overScreen.style.zIndex = "1"
         setTimeout(function(){
             overScreen.addEventListener("click",startGame,false)
         },500)
