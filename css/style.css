@@ -20,13 +20,13 @@ body{
 }
 
 #startScreen{
-    background: url("https://www.imagemhost.com.br/images/2021/10/14/intro.png");
+    background: url(https://i.postimg.cc/t4bfcj9X/intro.png);
     opacity: 1;
     z-index: 1;
 }
 
 #overScreen{
-    background: url("https://www.imagemhost.com.br/image/2OT509");
+    background: url(https://i.postimg.cc/qRFxH8ns/win.png);
     opacity: 0;
     z-index: -1;
 }
